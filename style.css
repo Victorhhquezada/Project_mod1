@@ -1,0 +1,24 @@
+body{
+    background-image: url(/Assets/395434.jpeg);
+    background-size: cover;
+
+}
+
+#characters{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: center;
+}
+
+#instructions{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+
+}
