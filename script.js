@@ -194,7 +194,6 @@ function update(){
 
 function start(){
    requestID =  requestAnimationFrame(update)
-   
 }
 
 

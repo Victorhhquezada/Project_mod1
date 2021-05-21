@@ -20,5 +20,22 @@ body{
     justify-content: space-around;
     align-items: center;
     align-content: center;
+}
 
+#desc{
+    font-family: Arial;
+    font-size: larger;
+    color: white;
+    width: 500px;
+    height: auto;
+}
+
+#characters img{
+    width: 200px;
+    height: 200px;
+}
+
+#instructions img{
+
+    height: 100px;
 }
